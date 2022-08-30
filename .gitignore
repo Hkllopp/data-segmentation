@@ -134,6 +134,7 @@ P8_Cityscapes_leftImg8bit_trainvaltest.zip
 
 # Dataset extraction
 /dataset
+/processed_data
 
 # Kaggle code inspiration
 /kaggleEnv
@@ -142,3 +143,8 @@ cityscapes-image-segmentation-pspnet.ipynb
 # urls file
 url.py
 
+# temporary files
+/tmp
+
+# output files
+out.png
