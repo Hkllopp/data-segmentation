@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dataset archives
+P8_Cityscapes_gtFine_trainvaltest.zip
+P8_Cityscapes_leftImg8bit_trainvaltest.zip
+
+# Dataset extraction
+/dataset
+
+# Kaggle code inspiration
+/kaggleEnv
+cityscapes-image-segmentation-pspnet.ipynb
+
+# urls file
+url.py
+
